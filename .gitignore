@@ -1,0 +1,8 @@
+.cache
+.idea
+dist
+node_modules
+
+# .tailwind is created to make JetBrains IDEs autocomplete  working
+# run `npm run tailwind` to create file with styles
+.tailwind
