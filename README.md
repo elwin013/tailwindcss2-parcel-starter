@@ -4,6 +4,8 @@ Just a starter of [Tailwind CSS](https://tailwindcss.com) (2.x) and [ParcelJS](h
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/elwin013/tailwindcss2-parcel-starter)
 
+Live preview via Netlify: https://tailwindcss2-parcel-starter.netlify.app/
+
 
 ## Getting started
 
